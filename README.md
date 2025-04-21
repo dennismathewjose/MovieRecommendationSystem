@@ -4,6 +4,8 @@ This project builds a **movie recommendation system** that suggests similar movi
 
 Traditional systems rely on user ratings or metadata like genres or cast. This project enhances recommendation quality by analyzing the **narrative content** of movie plots using state-of-the-art NLP techniques.
 
+## Note
+- If the ipynb file is not properly visible in the gitHub, click on the provided link to [view the code](https://colab.research.google.com/drive/1KfUZMHvud7THHsON3lgw_zR8SKkBfPTj?usp=sharing)
 ---
 
 ## Features
