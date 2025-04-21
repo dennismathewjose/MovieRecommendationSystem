@@ -105,5 +105,5 @@ evaluation_set = [
 3. Reimers, N., & Gurevych, I. (2019, August 27). Sentence-bert: Sentence embeddings using Siamese Bert-Networks. arXiv.org. https://arxiv.org/abs/1908.10084
 
 ##  Author
-Dennis Mathew Jose
+Dennis Mathew Jose<br>
 MS in Data Analytics Engineering, Northeastern University
